@@ -17,11 +17,11 @@ public class Main {
         int x = data;
 
         Scanner input2 = new
-                Scanner(System.in);
+        Scanner(System.in);
         System.out.println("Por favor escriba un valor de i");
         //int valor2 ;
         Integer data2 = input2.nextInt();
-        System.out.println("Lo que escrbiste fue: "+ input2);
+        System.out.println("Lo que escrbiste fue: "+ data2);
         int i = data2;
 
         Sumar(x,i);
